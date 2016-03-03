@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MetroAdviser</string>
+    <string-array name="Line_1">
+        <item>Девяткино</item>
+        <item>Гражданский пр.</item>
+        <item>Академическая</item>
+        <item>Политехническая</item>
+        <item>пл.Мужества</item>
+        <item>Лесная</item>
+    </string-array>
+</resources>
